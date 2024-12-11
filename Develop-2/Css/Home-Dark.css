@@ -1,0 +1,1220 @@
+@font-face {
+    font-family: Inknut-Antiqua-Bold;
+    src: url(../Font/InknutAntiqua-Bold.ttf);
+}
+
+@font-face {
+    font-family: Inknut-Antiqua-Regular;
+    src: url(../Font/InknutAntiqua-Regular.ttf);
+}
+
+@font-face {
+    font-family: Inknut-Antiqua-ExtraBold;
+    src: url(../Font/InknutAntiqua-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: Inknut-Antiqua-Medium;
+    src: url(../Font/InknutAntiqua-Medium.ttf);
+}
+
+@font-face {
+    font-family: Inria-Serif-Regular;
+    src: url(../Font/InriaSerif-Regular.ttf);
+}
+
+/****** MENU ******/
+.menu {
+    background-color: #071d28;
+    height: 1200px;
+    border-right: 2px solid #ecdbba7a;
+}
+
+.menu .logo {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.menu .list ul {
+    list-style: none;
+}
+
+.menu .list a {
+    text-decoration: none;
+    color: #ecdbba7a;
+}
+
+.menu .list .title1 {
+    font-family: Inknut-Antiqua-ExtraBold;
+    color: #FFFBFB;
+    font-size: 22px;
+    margin-bottom: 5px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.menu .list .para1 {
+    font-family: Inknut-Antiqua-Regular;
+    color: #4477CE;
+    font-size: 13px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.menu .list .para {
+    font-family: Inknut-Antiqua-Regular;
+    font-size: 13px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.menu .list span {
+    margin-right: 6px;
+    margin-left: 20px;
+    font-size: 17px;
+    color: #ecdbba7a;
+}
+
+.menu .list #icon1 {
+    color: #4477CE;
+    margin-right: 6px;
+    font-size: 16px;
+}
+
+/****** END MENU ******/
+
+
+/***** MIDDLE *****/
+.middle {
+    background-color: #071d28;
+    height: 1200px;
+}
+
+/***** SEARCH *****/
+.middle .search {
+    width: 600px;
+    height: 40px;
+    background-color: #6F6D99;
+    margin: 30px auto;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.middle .icon1 {
+    color: #FFFBFB;
+    font-size: 18px;
+    margin-left: 10px;
+    display: inline;
+    padding-right: 10px;
+}
+
+.middle .titleSearch {
+    display: inline;
+    font-family: Inknut-Antiqua-ExtraBold;
+    font-size: 12px;
+    margin-bottom: 5px;
+    color: #fffbfbb0;
+}
+
+/***** END SEARCH *****/
+
+/***** MIDDLE *****/
+.middle .cd-box {
+    height: 300px;
+    margin: 10px 12px;
+}
+
+/***** CD 1 *****/
+.middle .cd-box .img-halsey {
+    width: 108px;
+    height: 108px;
+    position: absolute;
+    top: 255px;
+    left: 307px;
+}
+
+.middle .cd-box .cd-halsey .box {
+    width: 36px;
+    height: 36px;
+    position: absolute;
+}
+
+.middle .cd-box .cd-halsey .bx1 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 258px;
+    left: 308px;
+}
+
+.middle .cd-box .cd-halsey .bx2 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 258px;
+    left: 344px;
+}
+
+.middle .cd-box .cd-halsey .bx3 {
+    border-bottom: 3px solid #071d28;
+    top: 258px;
+    left: 379px;
+}
+
+.middle .cd-box .cd-halsey .bx4 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 294px;
+    left: 308px;
+}
+
+.middle .cd-box .cd-halsey .bx5 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 294px;
+    left: 344px;
+}
+
+.middle .cd-box .cd-halsey .bx6 {
+    border-bottom: 3px solid #071d28;
+    top: 294px;
+    left: 379px;
+}
+
+.middle .cd-box .cd-halsey .bx7 {
+    border-right: 3px solid #071d28;
+    top: 327px;
+    left: 308px;
+}
+
+.middle .cd-box .cd-halsey .bx8 {
+    border-right: 3px solid #071d28;
+    top: 327px;
+    left: 344px;
+}
+
+.middle .cd-box .cd-halsey .icon {
+    font-size: 24px;
+    width: 30px;
+    position: absolute;
+    color: #ecdbba7a;
+    top: 290px;
+    left: 280px;
+}
+
+/***** END CD 1 *****/
+
+/***** CD 2 *****/
+.middle .cd-box .img-trio {
+    width: 144px;
+    height: 144px;
+    position: absolute;
+    top: 235px;
+    left: 430px;
+}
+
+.middle .cd-box .cd-trio .box {
+    width: 48px;
+    height: 48px;
+    position: absolute;
+}
+
+.middle .cd-box .cd-trio .bx1 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 235px;
+    left: 430px;
+}
+
+.middle .cd-box .cd-trio .bx2 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 235px;
+    left: 478px;
+}
+
+.middle .cd-box .cd-trio .bx3 {
+    border-bottom: 3px solid #071d28;
+    top: 235px;
+    left: 526px;
+}
+
+.middle .cd-box .cd-trio .bx4 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 283px;
+    left: 430px;
+}
+
+.middle .cd-box .cd-trio .bx5 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 283px;
+    left: 478px;
+}
+
+.middle .cd-box .cd-trio .bx6 {
+    border-bottom: 3px solid #071d28;
+    top: 283px;
+    left: 526px;
+}
+
+.middle .cd-box .cd-trio .bx7 {
+    border-right: 3px solid #071d28;
+    top: 330px;
+    left: 430px;
+}
+
+.middle .cd-box .cd-trio .bx8 {
+    border-right: 3px solid #071d28;
+    top: 330px;
+    left: 478px;
+}
+
+/***** END CD 2 *****/
+
+/***** CD 3 *****/
+.middle .cd-box .img-samira {
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    top: 213px;
+    left: 588px;
+}
+
+.middle .cd-box .cd-samira .box {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+}
+
+.middle .cd-box .cd-samira .bx1 {
+    border-right: 3px solid #FFFBFB;
+    border-bottom: 3px solid #FFFBFB;
+    top: 212px;
+    left: 588px;
+}
+
+.middle .cd-box .cd-samira .bx2 {
+    border-right: 3px solid #FFFBFB;
+    border-bottom: 3px solid #FFFBFB;
+    top: 212px;
+    left: 648px;
+}
+
+.middle .cd-box .cd-samira .bx3 {
+    border-bottom: 3px solid #FFFBFB;
+    top: 212px;
+    left: 708px;
+}
+
+.middle .cd-box .cd-samira .bx4 {
+    border-right: 3px solid #FFFBFB;
+    border-bottom: 3px solid #fffcfb;
+    top: 272px;
+    left: 588px;
+}
+
+.middle .cd-box .cd-samira .bx5 {
+    border-right: 3px solid #FFFBFB;
+    border-bottom: 3px solid #FFFBFB;
+    top: 272px;
+    left: 648px;
+}
+
+.middle .cd-box .cd-samira .bx6 {
+    border-bottom: 3px solid #FFFBFB;
+    top: 272px;
+    left: 708px;
+}
+
+.middle .cd-box .cd-samira .bx7 {
+    border-right: 3px solid #FFFBFB;
+    top: 333px;
+    left: 588px;
+}
+
+.middle .cd-box .cd-samira .bx8 {
+    border-right: 3px solid #FFFBFB;
+    top: 333px;
+    left: 648px;
+}
+
+.middle .cd-box .img-elif {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 130px;
+    left: 605px;
+    border-radius: 60%;
+}
+
+.middle .cd-box .circle1 {
+    width: 30px;
+    height: 30px;
+    background-color: #FFFBFB;
+    position: absolute;
+    top: 195px;
+    left: 670px;
+    border-radius: 50%;
+}
+
+.middle .cd-box .circle2 {
+    width: 50px;
+    height: 50px;
+    background-color: #ecdbba7a;
+    position: absolute;
+    top: 185px;
+    left: 660px;
+    border-radius: 50%;
+}
+
+/***** END CD 3 *****/
+
+/***** CD 4 *****/
+.middle .cd-box .img-shakira {
+    width: 144px;
+    height: 144px;
+    position: absolute;
+    top: 235px;
+    left: 785px;
+}
+
+.middle .cd-box .cd-shakira .box {
+    width: 48px;
+    height: 48px;
+    position: absolute;
+}
+
+.middle .cd-box .cd-shakira .bx1 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 235px;
+    left: 785px;
+}
+
+.middle .cd-box .cd-shakira .bx2 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 235px;
+    left: 833px;
+}
+
+.middle .cd-box .cd-shakira .bx3 {
+    border-bottom: 3px solid #071d28;
+    top: 235px;
+    left: 880px;
+}
+
+.middle .cd-box .cd-shakira .bx4 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 283px;
+    left: 785px;
+}
+
+.middle .cd-box .cd-shakira .bx5 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 283px;
+    left: 833px;
+}
+
+.middle .cd-box .cd-shakira .bx6 {
+    border-bottom: 3px solid #071d28;
+    top: 283px;
+    left: 880px;
+}
+
+.middle .cd-box .cd-shakira .bx7 {
+    border-right: 3px solid #071d28;
+    top: 330px;
+    left: 785px;
+}
+
+.middle .cd-box .cd-shakira .bx8 {
+    border-right: 3px solid #071d28;
+    top: 330px;
+    left: 833px;
+}
+
+/***** END CD 4 *****/
+
+/***** CD 5 *****/
+.middle .cd-box .img-takeoff {
+    width: 108px;
+    height: 108px;
+    position: absolute;
+    top: 255px;
+    left: 945px;
+}
+
+.middle .cd-box .cd-takeoff .box {
+    width: 36px;
+    height: 36px;
+    position: absolute;
+}
+
+.middle .cd-box .cd-takeoff .bx1 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 258px;
+    left: 945px;
+}
+
+.middle .cd-box .cd-takeoff .bx2 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 258px;
+    left: 980px;
+}
+
+.middle .cd-box .cd-takeoff .bx3 {
+    border-bottom: 3px solid #071d28;
+    top: 258px;
+    left: 1015px;
+}
+
+.middle .cd-box .cd-takeoff .bx4 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 294px;
+    left: 945px;
+}
+
+.middle .cd-box .cd-takeoff .bx5 {
+    border-right: 3px solid #071d28;
+    border-bottom: 3px solid #071d28;
+    top: 294px;
+    left: 980px;
+}
+
+.middle .cd-box .cd-takeoff .bx6 {
+    border-bottom: 3px solid #071d28;
+    top: 294px;
+    left: 1015px;
+}
+
+.middle .cd-box .cd-takeoff .bx7 {
+    border-right: 3px solid #071d28;
+    top: 327px;
+    left: 945px;
+}
+
+.middle .cd-box .cd-takeoff .bx8 {
+    border-right: 3px solid #071d28;
+    top: 327px;
+    left: 980px;
+}
+
+.middle .cd-box .cd-takeoff .icon {
+    font-size: 24px;
+    width: 30px;
+    position: absolute;
+    color: #ecdbba7a;
+    top: 290px;
+    left: 1057px;
+}
+
+/***** END CD 5 *****/
+
+
+/***** NEWEST BOX *****/
+.middle .newest {
+    height: 300px;
+    margin: 40px 12px;
+}
+
+.middle .newest .title {
+    font-family: Inknut-Antiqua-ExtraBold;
+    font-size: 22px;
+    color: #FFFBFB;
+    width: 100px;
+    margin-left: 10px;
+}
+
+.middle .newest .more {
+    display: inline-block;
+    position: absolute;
+    right: 430px;
+    top: 470px;
+    color: #ecdbba7a;
+    font-family: Inknut-Antiqua-Medium;
+    font-size: 14px;
+}
+
+.middle .newest .icon {
+    font-size: 28px;
+    position: absolute;
+    right: 400px;
+    top: 460px;
+    color: #ecdbba7a;
+}
+
+/***** BOX 1 *****/
+.middle .newest .box1 {
+    width: 150px;
+    height: 250px;
+    top: 510px;
+    left: 285px;
+    background-color: #1d58bf48;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.middle .newest .box1 .img-ohne-dich {
+    width: 135px;
+    height: 180px;
+    margin: 7px 7px;
+    border-radius: 10px;
+}
+
+.middle .newest .box1 .song {
+    font-family: Inknut-Antiqua-Bold;
+    text-align: center;
+    color: #FFFBFB;
+}
+
+.middle .newest .box1 .singer {
+    font-family: Inknut-Antiqua-Regular;
+    text-align: center;
+    position: absolute;
+    top: 225px;
+    left: 35px;
+    font-size: 12px;
+    color: #ecdbba7a;
+}
+
+/***** END BOX 1 *****/
+
+/***** BOX 2 *****/
+.middle .newest .box2 {
+    width: 150px;
+    height: 250px;
+    top: 510px;
+    left: 460px;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.middle .newest .box2 .img-best {
+    width: 135px;
+    height: 180px;
+    margin: 7px 7px;
+    border-radius: 10px;
+}
+
+.middle .newest .box2 .song {
+    font-family: Inknut-Antiqua-Bold;
+    text-align: center;
+    color: #FFFBFB;
+}
+
+.middle .newest .box2 .singer {
+    font-family: Inknut-Antiqua-Regular;
+    text-align: center;
+    position: absolute;
+    top: 225px;
+    left: 55px;
+    font-size: 12px;
+    color: #ecdbba7a;
+}
+
+/***** END BOX 2 *****/
+
+/***** BOX 3 *****/
+.middle .newest .box3 {
+    width: 150px;
+    height: 250px;
+    top: 510px;
+    left: 630px;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.middle .newest .box3 .img-want-you {
+    width: 135px;
+    height: 180px;
+    margin: 7px 7px;
+    border-radius: 10px;
+}
+
+.middle .newest .box3 .song {
+    font-family: Inknut-Antiqua-Bold;
+    text-align: center;
+    color: #FFFBFB;
+}
+
+.middle .newest .box3 .singer {
+    font-family: Inknut-Antiqua-Regular;
+    text-align: center;
+    position: absolute;
+    top: 225px;
+    left: 40px;
+    font-size: 12px;
+    color: #ecdbba7a;
+}
+
+/***** END BOX 3 *****/
+
+/***** BOX 4 *****/
+.middle .newest .box4 {
+    width: 150px;
+    height: 250px;
+    top: 510px;
+    left: 800px;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.middle .newest .box4 .img-sind-viele {
+    width: 135px;
+    height: 180px;
+    margin: 7px 7px;
+    border-radius: 10px;
+}
+
+.middle .newest .box4 .song {
+    font-family: Inknut-Antiqua-Bold;
+    text-align: center;
+    color: #FFFBFB;
+}
+
+.middle .newest .box4 .singer {
+    font-family: Inknut-Antiqua-Regular;
+    text-align: center;
+    position: absolute;
+    top: 225px;
+    left: 45px;
+    font-size: 12px;
+    color: #ecdbba7a;
+}
+
+/***** END BOX 4 *****/
+
+/***** BOX 5 *****/
+.middle .newest .box5 {
+    width: 150px;
+    height: 250px;
+    top: 510px;
+    left: 960px;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.middle .newest .box5 .img-escape {
+    width: 135px;
+    height: 180px;
+    margin: 7px 7px;
+    border-radius: 10px;
+}
+
+.middle .newest .box5 .song {
+    font-family: Inknut-Antiqua-Bold;
+    text-align: center;
+    color: #FFFBFB;
+}
+
+.middle .newest .box5 .singer {
+    font-family: Inknut-Antiqua-Regular;
+    text-align: center;
+    position: absolute;
+    top: 225px;
+    left: 45px;
+    font-size: 12px;
+    color: #ecdbba7a;
+}
+
+/***** END BOX 5 *****/
+/***** END NEWEST BOX *****/
+
+
+/***** TOP MUSIC *****/
+.middle .top-music {
+    height: 380px;
+    margin: 0px 25px;
+}
+
+.middle .top-music {
+    font-family: Inknut-Antiqua-ExtraBold;
+    font-size: 22px;
+    color: #FFFBFB;
+}
+
+/***** TOP 1 *****/
+.middle .top-music .top1 {
+    height: 80px;
+}
+
+.middle .top-music .top1 .img-top1 {
+    width: 70px;
+    height: 70px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.middle .top-music .top1 .song {
+    font-family: Inknut-Antiqua-Bold;
+    color: #FFFBFB;
+    position: absolute;
+    top: 860px;
+    left: 380px;
+    font-size: 16px;
+}
+
+.middle .top-music .top1 .singer {
+    font-family: Inknut-Antiqua-Regular;
+    font-size: 12px;
+    color: #ecdbba7a;
+    position: absolute;
+    top: 895px;
+    left: 380px;
+}
+
+.middle .top-music .top1 .details {
+    position: absolute;
+    right: 460px;
+    top: 870px;
+}
+
+.middle .top-music .top1 .details span {
+    color: #ecdbba7a;
+    margin-right: 10px;
+}
+
+.middle .top-music .top1 .details .time {
+    font-family: Inria-Serif-Regular;
+    font-size: 16px;
+    color: #ecdbba7a;
+    position: absolute;
+    left: 60px;
+    top: 5px;
+    margin-left: 20px;
+}
+
+/***** END TOP 1 *****/
+
+/***** TOP 2 *****/
+.middle .top-music .top2 {
+    height: 80px;
+}
+
+.middle .top-music .top2 .img-top2 {
+    width: 70px;
+    height: 70px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.middle .top-music .top2 .song {
+    font-family: Inknut-Antiqua-Bold;
+    color: #FFFBFB;
+    position: absolute;
+    top: 943px;
+    left: 380px;
+    font-size: 16px;
+}
+
+.middle .top-music .top2 .singer {
+    font-family: Inknut-Antiqua-Regular;
+    font-size: 12px;
+    color: #ecdbba7a;
+    position: absolute;
+    top: 975px;
+    left: 380px;
+}
+
+.middle .top-music .top2 .details {
+    position: absolute;
+    right: 460px;
+    top: 955px;
+}
+
+.middle .top-music .top2 .details span {
+    color: #ecdbba7a;
+    margin-right: 10px;
+}
+
+.middle .top-music .top2 .details .time {
+    font-family: Inria-Serif-Regular;
+    font-size: 16px;
+    color: #ecdbba7a;
+    position: absolute;
+    left: 60px;
+    top: 5px;
+    margin-left: 20px;
+}
+
+/***** END TOP 2 *****/
+
+/***** TOP 3 *****/
+.middle .top-music .top3 {
+    height: 80px;
+}
+
+.middle .top-music .top3 .img-top3 {
+    width: 70px;
+    height: 70px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.middle .top-music .top3 .song {
+    font-family: Inknut-Antiqua-Bold;
+    color: #FFFBFB;
+    position: absolute;
+    top: 1025px;
+    left: 380px;
+    font-size: 16px;
+}
+
+.middle .top-music .top3 .singer {
+    font-family: Inknut-Antiqua-Regular;
+    font-size: 12px;
+    color: #ecdbba7a;
+    position: absolute;
+    top: 1060px;
+    left: 380px;
+}
+
+.middle .top-music .top3 .details {
+    position: absolute;
+    right: 460px;
+    top: 1030px;
+}
+
+.middle .top-music .top3 .details span {
+    color: #ecdbba7a;
+    margin-right: 10px;
+}
+
+.middle .top-music .top3 .details .time {
+    font-family: Inria-Serif-Regular;
+    font-size: 16px;
+    color: #ecdbba7a;
+    position: absolute;
+    left: 60px;
+    top: 5px;
+    margin-left: 20px;
+}
+
+/***** END TOP 3 *****/
+
+/***** TOP 4 *****/
+.middle .top-music .top4 {
+    height: 80px;
+}
+
+.middle .top-music .top4 .img-top4 {
+    width: 70px;
+    height: 70px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.middle .top-music .top4 .song {
+    font-family: Inknut-Antiqua-Bold;
+    color: #FFFBFB;
+    position: absolute;
+    top: 1103px;
+    left: 380px;
+    font-size: 16px;
+}
+
+.middle .top-music .top4 .singer {
+    font-family: Inknut-Antiqua-Regular;
+    font-size: 12px;
+    color: #ecdbba7a;
+    position: absolute;
+    top: 1137px;
+    left: 380px;
+}
+
+.middle .top-music .top4 .details {
+    position: absolute;
+    right: 460px;
+    top: 1110px;
+}
+
+.middle .top-music .top4 .details span {
+    color: #ecdbba7a;
+    margin-right: 10px;
+}
+
+.middle .top-music .top4 .details .time {
+    font-family: Inria-Serif-Regular;
+    font-size: 16px;
+    color: #ecdbba7a;
+    position: absolute;
+    left: 60px;
+    top: 5px;
+    margin-left: 20px;
+}
+
+/***** END TOP 4 *****/
+/***** END TOP MUSIC *****/
+
+/***** END MIDDLE *****/
+
+
+/***** TAB BAR *****/
+.tab-bar {
+    background-color: #071d28;
+    height: 1200px;
+    border-left: 2px solid #ecdbba7a;
+}
+
+/***** ACCOUNT *****/
+.tab-bar .account {
+    height: 110px;
+    border-bottom: 2px solid #ecdbba7a;
+    position: relative;
+}
+
+.tab-bar .account .img-accon {
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.tab-bar .account .name-accon {
+    font-family: Inknut-Antiqua-Medium;
+    color: #FFFBFB;
+    font-size: 14px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 13px;
+}
+
+.tab-bar .account .accon-icon {
+    width: 130px;
+    position: absolute;
+    right: 30px;
+    top: 47px;
+}
+
+.tab-bar .account .accon-icon .icon {
+    margin-left: 15px;
+    font-size: 18px;
+    color: #ecdbba7a;
+}
+
+/***** END ACCOUNT *****/
+
+/***** PLAYING *****/
+.tab-bar .playing {
+    height: 460px;
+    margin: 0px auto;
+}
+
+.tab-bar .playing .title1 {
+    font-family: Inknut-Antiqua-ExtraBold;
+    color: #FFFBFB;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.tab-bar .playing .img-tutMirLeid {
+    width: 220px;
+    height: 200px;
+    margin-left: 35px;
+    border-radius: 15px;
+}
+
+.tab-bar .playing .nameSong {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Inknut-Antiqua-Medium;
+    color: #FFFBFB;
+    font-size: 16px;
+}
+
+.tab-bar .playing .nameSinger {
+    text-align: center;
+    font-family: Inknut-Antiqua-Medium;
+    color: #ecdbba7a;
+    font-size: 13px;
+    padding-bottom: 5px;
+}
+
+.tab-bar .playing .lineMusic {
+    width: 200px;
+    height: 2px;
+    border: 2px solid #ecdbba7a;
+    margin: 25px auto;
+}
+
+.tab-bar .playing .lineMusic1 {
+    width: 100px;
+    height: 2px;
+    border: 2px solid #4477CE;
+    position: absolute;
+    top: 502px;
+    left: 81%;
+    box-shadow: 1px 1px 2px #4477ce55, -1px -1px 2px #4477ce55;
+}
+
+.tab-bar .playing .circleMusic {
+    width: 15px;
+    height: 15px;
+    background-color: #4477CE;
+    border-radius: 50px;
+    position: absolute;
+    top: 496px;
+    left: 87%;
+    box-shadow: 1px 1px 1px #4477ce55, -1px -1px 1px #4477ce55, 1px -1px 1px #4477ce55, -1px 1px 1px #4477ce55;
+}
+
+.tab-bar .playing .timeMusic {
+    position: relative;
+}
+
+.tab-bar .playing .timeMusic .time1 {
+    font-family: Inria-Serif-Regular;
+    font-size: 14px;
+    color: #ecdbba7a;
+    position: absolute;
+    right: 217px;
+}
+
+.tab-bar .playing .timeMusic .time2 {
+    font-family: Inria-Serif-Regular;
+    font-size: 14px;
+    color: #ecdbba7a;
+    position: absolute;
+    right: 45px;
+}
+
+/***** END PLAYING *****/
+
+/***** MUSIC VIDEO 1*****/
+.tab-bar .music-video {
+    height: 600px;
+    margin: 0px auto;
+
+}
+
+.tab-bar .music-video .title1 {
+    font-family: Inknut-Antiqua-ExtraBold;
+    color: #FFFBFB;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.tab-bar .music-video .video1 .img-loveBrain {
+    width: 200px;
+    height: 150px;
+    margin-left: 45px;
+    margin-top: 10px;
+    border-radius: 15px;
+    position: absolute;
+    size: cover;
+}
+
+.tab-bar .music-video .video1 .title-loveBrain {
+    background-color: #ffffff56;
+    width: 200px;
+    position: relative;
+    top: 130px;
+    left: 45px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 30px;
+    font-family: Inknut-Antiqua-Medium;
+    font-size: 12px;
+    color: #0D0D0C;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.tab-bar .music-video .video1 .icon1 {
+    color: #2166df;
+    font-size: 30px;
+    position: absolute;
+    right: 180px;
+}
+
+/***** END MUSIC VIDEO 1*****/
+
+/***** MUSIC VIDEO 2*****/
+.tab-bar .music-video .video2 .img-bella {
+    width: 200px;
+    height: 150px;
+    margin-left: 45px;
+    margin-top: 10px;
+    border-radius: 15px;
+    position: absolute;
+    size: cover;
+    margin-top: 150px
+}
+
+.tab-bar .music-video .video2 .title-bella {
+    background-color: #ffffff56;
+    width: 200px;
+    position: relative;
+    top: 270px;
+    left: 45px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 30px;
+    font-family: Inknut-Antiqua-Medium;
+    font-size: 12px;
+    color: #0D0D0C;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.tab-bar .music-video .video2 .icon2 {
+    color: #2166df;
+    font-size: 30px;
+    position: absolute;
+    right: 180px;
+    top: 880px;
+}
+
+/***** END MUSIC VIDEO 2*****/
+
+/***** MUSIC VIDEO 3*****/
+.tab-bar .music-video .video3 .img-Lui {
+    width: 200px;
+    height: 150px;
+    margin-left: 45px;
+    margin-top: 10px;
+    border-radius: 15px;
+    position: absolute;
+    size: cover;
+    margin-top: 295px
+}
+
+.tab-bar .music-video .video3 .title-Lui {
+    background-color: #ffffff56;
+    width: 200px;
+    position: relative;
+    top: 415px;
+    left: 45px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 30px;
+    font-family: Inknut-Antiqua-Medium;
+    font-size: 12px;
+    color: #0D0D0C;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.tab-bar .music-video .video3 .icon3 {
+    color: #2166df;
+    font-size: 30px;
+    position: absolute;
+    right: 180px;
+    top: 1070px;
+}
+
+/***** END MUSIC VIDEO 3*****/
+/***** END TAB BAR *****/
